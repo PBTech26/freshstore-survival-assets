@@ -1,0 +1,98 @@
+{
+  "generated_at": "2026-05-22T01:09:04Z",
+  "total_wall_s": 11.6,
+  "total_cost_usd_estimate": 0.8,
+  "successes": [
+    {
+      "slug": "00-hero",
+      "aspect": "3x1",
+      "ok": true,
+      "bytes": 1359792,
+      "path": "/Users/josephzubrzycki/projects/ow/freshstore/assets/store-images/00-hero.png",
+      "ideogram_url": "https://ideogram.ai/api/images/ephemeral/xl7dlCQSWtOXpARQyGpTXQ.png?exp=1779498542&sig=19c74d2f23abcf28da3d0b3ec5a50e3e7b5d29ae04679189e717dee175e27944",
+      "elapsed_s": 10.6
+    },
+    {
+      "slug": "01-water-filtration",
+      "aspect": "1x1",
+      "ok": true,
+      "bytes": 1649916,
+      "path": "/Users/josephzubrzycki/projects/ow/freshstore/assets/store-images/01-water-filtration.png",
+      "ideogram_url": "https://ideogram.ai/api/images/ephemeral/CesOi5NYWZSReBc9OgehbA.png?exp=1779498542&sig=787d7224b84bc582d4e5e97dcb2f2948a71d58a625bb10e114ef07f750a4730a",
+      "elapsed_s": 11.1
+    },
+    {
+      "slug": "02-emergency-food",
+      "aspect": "1x1",
+      "ok": true,
+      "bytes": 1504395,
+      "path": "/Users/josephzubrzycki/projects/ow/freshstore/assets/store-images/02-emergency-food.png",
+      "ideogram_url": "https://ideogram.ai/api/images/ephemeral/WdMBdJYCW1GS1wSJhYJ3wQ.png?exp=1779498542&sig=5fe8a1f617f89438c5a6ffb3813a9a43e9003a806074cb5cdeb001da2249a516",
+      "elapsed_s": 10.6
+    },
+    {
+      "slug": "03-first-aid",
+      "aspect": "1x1",
+      "ok": true,
+      "bytes": 1590802,
+      "path": "/Users/josephzubrzycki/projects/ow/freshstore/assets/store-images/03-first-aid.png",
+      "ideogram_url": "https://ideogram.ai/api/images/ephemeral/2OF_1993UPSpt_hyZociTA.png?exp=1779498542&sig=b7e1917b063ff2c784b0639ed0b4f292c13783c6b49e9b33ed88ec4b6d31c6d6",
+      "elapsed_s": 10.9
+    },
+    {
+      "slug": "04-fire-cooking",
+      "aspect": "1x1",
+      "ok": true,
+      "bytes": 1609393,
+      "path": "/Users/josephzubrzycki/projects/ow/freshstore/assets/store-images/04-fire-cooking.png",
+      "ideogram_url": "https://ideogram.ai/api/images/ephemeral/SuvZmh-YUu2UZlN2quqsMw.png?exp=1779498542&sig=4d3bb9cfed295c817e545c1d850174f972c4199a7c2a8ba1a3a2cdd65fd75f9f",
+      "elapsed_s": 11.4
+    },
+    {
+      "slug": "05-lighting-power",
+      "aspect": "1x1",
+      "ok": true,
+      "bytes": 1422944,
+      "path": "/Users/josephzubrzycki/projects/ow/freshstore/assets/store-images/05-lighting-power.png",
+      "ideogram_url": "https://ideogram.ai/api/images/ephemeral/XxjI83-9UZWBI8ayEIo03w.png?exp=1779498542&sig=03c573f1ace4e35b78b8071a8ecea7510f45b5d19d32844936b5a1b60e8ada1c",
+      "elapsed_s": 10.6
+    },
+    {
+      "slug": "06-shelter-warmth",
+      "aspect": "1x1",
+      "ok": true,
+      "bytes": 1562292,
+      "path": "/Users/josephzubrzycki/projects/ow/freshstore/assets/store-images/06-shelter-warmth.png",
+      "ideogram_url": "https://ideogram.ai/api/images/ephemeral/6iuDDzMUVj-YzIB0K-S7ag.png?exp=1779498542&sig=40dd956a91536df0d72552e915139002d592fa7bcf3250937eab6ef51c3a456a",
+      "elapsed_s": 11.6
+    },
+    {
+      "slug": "07-tools-edc",
+      "aspect": "1x1",
+      "ok": true,
+      "bytes": 1676420,
+      "path": "/Users/josephzubrzycki/projects/ow/freshstore/assets/store-images/07-tools-edc.png",
+      "ideogram_url": "https://ideogram.ai/api/images/ephemeral/BweHGkOYXyi-SGwJGILTHQ.png?exp=1779498542&sig=df95ef7738c29ec525663580fedf85b37469556da5b83ac8ffa5afb514e7eef5",
+      "elapsed_s": 10.5
+    },
+    {
+      "slug": "08-communication-navigation",
+      "aspect": "1x1",
+      "ok": true,
+      "bytes": 1509505,
+      "path": "/Users/josephzubrzycki/projects/ow/freshstore/assets/store-images/08-communication-navigation.png",
+      "ideogram_url": "https://ideogram.ai/api/images/ephemeral/Pu9OzuJyVBeocnwSA-lSTA.png?exp=1779498542&sig=03832c2da41cd6729371b3bb009409015d3eb5bbc8bc42cd31f1c9eba8c6afd4",
+      "elapsed_s": 10.9
+    },
+    {
+      "slug": "09-bug-out-bags",
+      "aspect": "1x1",
+      "ok": true,
+      "bytes": 1830876,
+      "path": "/Users/josephzubrzycki/projects/ow/freshstore/assets/store-images/09-bug-out-bags.png",
+      "ideogram_url": "https://ideogram.ai/api/images/ephemeral/TAJQpYiUWbSeEfydnSsS2Q.png?exp=1779498542&sig=c55e385f603eaebfc13cf5be4cceee352e3c7a09bd8b2c65eb53554f8f08e1b8",
+      "elapsed_s": 10.4
+    }
+  ],
+  "failures": []
+}
